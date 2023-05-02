@@ -296,6 +296,12 @@
     "image": "festwithme"
   },
   {
+    "title": "Ikziriv Links",
+    "link": "https://fresh-ikziriv.deno.dev",
+    "github": "Ikziriv/fresh-portfolio-site",
+    "image": "fresh-ikziriv-links"
+  },
+  {
     "title": "Do not remove this, it's for prevent conflicting by trailing comma",
     "link": "",
     "github": "",
